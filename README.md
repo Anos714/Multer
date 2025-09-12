@@ -1,5 +1,8 @@
 # 📊 Multer-Two
 
+![App Preview](src/assets/preview.png)  
+<!-- Replace ./public/preview.png with your actual screenshot or hosted image URL -->
+
 A modern **React.js web app** styled with **Tailwind CSS** and powered by **Recharts** for interactive data visualization.  
 Deployed live at → [multer-two.vercel.app](https://multer-two.vercel.app/) 🚀  
 
